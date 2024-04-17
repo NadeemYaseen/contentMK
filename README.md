@@ -13,6 +13,7 @@
 - Email Automation | Email Marketing
 - Facebook Ads
 - Facebook ads as a service
+- eCommerce store
 
 ### 17th April Task:
 
