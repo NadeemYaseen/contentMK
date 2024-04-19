@@ -70,7 +70,7 @@ What is freelancing:
       - Do outsource only when you have too much work and can't do it yourself but only do it when you are confident in the third person and know that work too by yourself
 
   #### Task:
-      - Explore Fiverr
+  - Explore Fiverr
       
   
       
