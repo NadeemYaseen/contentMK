@@ -72,7 +72,15 @@ What is freelancing:
   #### Task:
   - Explore Fiverr
       
-  
+  ### April 19
+  Most of the talk was about keywords. When we type in the search bar of any search engine the suggestions we see are the keywords
+  Then talk was about SEO and its type. SEO types are In-Page, On-page, technical, and Competitive analysis. The full package includes all of these types
+  Only take those tasks if you are skillful in that field. Similarly, outsource only if you know about that stuff.
+
+  # Task
+- Account on
+    - [Preply](https://preply.com)
+    - [Micro Worker](https://www.microworkers.com/signup.php)
       
   
 
