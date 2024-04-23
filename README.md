@@ -90,10 +90,20 @@ What is freelancing:
 ### April 23
 
 Article writing:
+- To generate article [perplexity](https://www.perplexity.ai/)
 - Use Grammarly to correct the grammar and spelling correct
 - [Temp mail extension](https://tempail.com/) , [Temp mail 2nd site](https://mail.tm/en/)
 - [AI tool for English Grammar](https://www.wordtune.com/)
-- 
+- For synonyme and antonyme use https://www.thesaurus.com/
+- For Plagiarism removal use [Quilt bot](https://quillbot.com/)
+- Similarweb (to check the visitors of a site like Google)
+- To get the title of the topic use [portent](https://www.portent.com/tools/title-maker/)
+- To get more specific topic being searched, use [answerthepublic.com](https://answerthepublic.com/) 
+- SEO Optimized:
+    - simple, knowledgeable, easy to understand
+    - content should answer all the questions/queries that is the one-stop solution
+    - Google trend to explore on what topic to write
+    -  
 
 
 
