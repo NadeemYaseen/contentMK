@@ -84,6 +84,20 @@ What is freelancing:
       
   ### April 22
 
+For Uniqueness/ plagiarism check
+- Small SEO Tools (https://smallseotools.com/)
+- DupliChecker (https://www.duplichecker.com/)
+- Plagiarism Detector (https://plagiarismdetector.net/testimonials)
+- Plagiarisma (https://plagiarisma.net/)
+- DupliChecker (https://www.duplichecker.com/)
+- Copyscape (https://www.copyscape.com/)
+- Copyleaks (https://www.copyscape.com/)
+- Copymatics (https://www.copyscape.com/)
+- Quetext (https://www.quetext.com/plagiarism-checker)
+- 1text (https://1text.com/plagiarismchecker)
+- Turnitin (https://www.turnitin.com/) (paid)
+
+
   #### Task
   - Write at least 300 words article on any topic that you like
 
@@ -104,7 +118,7 @@ Article writing:
     - simple, knowledgeable, easy to understand
     - content should answer all the questions/queries that is the one-stop solution
     - Google trend to explore on what topic to write
-    -  
+      
 
 
 
