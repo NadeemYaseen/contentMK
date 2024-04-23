@@ -92,7 +92,7 @@ What is freelancing:
 Article writing:
 - Use Grammarly to correct the grammar and spelling correct
 - [Temp mail extension](https://tempail.com/) , [Temp mail 2nd site](https://mail.tm/en/)
-- (AI tool for English Grammar)[https://www.wordtune.com/]
+- [AI tool for English Grammar](https://www.wordtune.com/)
 - 
 
 
