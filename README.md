@@ -98,7 +98,8 @@ Article writing:
 - For Plagiarism removal use [Quilt bot](https://quillbot.com/)
 - Similarweb (to check the visitors of a site like Google)
 - To get the title of the topic use [portent](https://www.portent.com/tools/title-maker/)
-- To get more specific topic being searched, use [answerthepublic.com](https://answerthepublic.com/) 
+- To get more specific topic being searched, use [answerthepublic.com](https://answerthepublic.com/)
+- [aiprm](https://www.aiprm.com/) to get prompt for chatgt
 - SEO Optimized:
     - simple, knowledgeable, easy to understand
     - content should answer all the questions/queries that is the one-stop solution
