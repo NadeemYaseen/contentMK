@@ -77,11 +77,23 @@ What is freelancing:
   Then talk was about SEO and its type. SEO types are In-Page, On-page, technical, and Competitive analysis. The full package includes all of these types
   Only take those tasks if you are skillful in that field. Similarly, outsource only if you know about that stuff.
 
-  # Task
+  #### Task
 - Account on
     - [Preply](https://preply.com)
     - [Micro Worker](https://www.microworkers.com/signup.php)
       
-  
+  ### April 22
+
+  #### Task
+  - Write at least 300 words article on any topic that you like
+
+### April 23
+
+Article writing:
+- Use Grammarly to correct the grammar and spelling correct
+- Temp mail extension
+
+
+
 
 
