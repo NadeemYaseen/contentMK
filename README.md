@@ -118,6 +118,17 @@ Article writing:
     - simple, knowledgeable, easy to understand
     - content should answer all the questions/queries that is the one-stop solution
     - Google trend to explore on what topic to write
+ 
+#### Task
+Write at least a 500-word article on any topic that you like.
+
+Research the content
+Then write it in Google docs
+After that try to check its plagiarism.
+Remove the plagiarism
+Take a screenshot of the plagiarism report from 1text.com
+Comment report screenshot when you complete the task.
+
       
 ### April 24
 
@@ -132,7 +143,12 @@ You are an expert copywriter who can rewrite content in your own voice and style
 - AIPRM to generate the prompt for AI bots
 - GPTzero , a website to check either content is AI based or human based
 - copyleaks ai detector
-- 
+
+#### Account on Fiverr
+email: khyber.runner@gmail.com
+password: Welcome@123456789
+username: khyberseo
+
 
 
 
