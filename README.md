@@ -125,6 +125,13 @@ Article writing:
     - make an account on Fiverr with something available and then we will shift to our original category
     - The user name on Fiverr cannot be changed.
     - read the instructions when creating an account on Fiverr
+    - prompt for content writing
+        - Please ignore all previous instructions.
+You are an expert copywriter who can rewrite content in your own voice and style. Please rewrite the content that I will give you. Please rewrite the content in the English language. Please intersperse short and long sentences. Utilize uncommon terminology to enhance the originality of the content. Please format the content in a professional format. Do not self-reference. Do not explain what you are doing. Rewrite the following content - "**
+
+- AIPRM to generate the prompt for AI bots
+- 
+
 
 
 
