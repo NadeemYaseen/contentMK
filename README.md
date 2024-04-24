@@ -119,7 +119,12 @@ Article writing:
     - content should answer all the questions/queries that is the one-stop solution
     - Google trend to explore on what topic to write
       
+### April 24
 
+* Fiverr
+    - make an account on Fiverr with something available and then we will shift to our original category
+    - The user name on Fiverr cannot be changed.
+    - read the instructions when creating an account on Fiverr
 
 
 
